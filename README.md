@@ -92,7 +92,7 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![github.logo](pegion 1.png)
+![github.logo](p1.png)
 
 
 
@@ -105,6 +105,7 @@ cv2.destroyAllWindows()
 ### Histogram Equalization of Grayscale Image
 ![github.logo](pegion 4.png)
 ![github.logo](pegion 5.png)
+![pigeon 4](https://user-images.githubusercontent.com/93427522/166960569-ae824922-625f-48e9-850f-0a1fc2ee449c.png)
 
 
 
