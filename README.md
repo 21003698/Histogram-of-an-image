@@ -92,34 +92,19 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-<br>
-<br>
-<br>
-<br>
-![pigeon 1](https://user-images.githubusercontent.com/93427522/166959296-f6906805-d998-4d84-b952-89dec8f975d3.png)
-
+![github.logo](pegion 1.png)
 
 
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
-<br>
-<br>
-<br>
-<br>
-![pigeon 2](https://user-images.githubusercontent.com/93427522/166959372-cee3354b-052d-4e2c-9567-78a282cd2c13.png)
-
+![github.logo](pegion 2.png)
 
 
 
 ### Histogram Equalization of Grayscale Image
-<br>
-<br>
-<br>
-<br>
-![pigeon 4](https://user-images.githubusercontent.com/93427522/166959454-2ecf8c81-7eae-4caf-8283-a471c4f13c5a.png)
-![pigeon 5](https://user-images.githubusercontent.com/93427522/166959478-59efff07-4faf-42eb-9917-9826f54a3c5f.png)
-
+![github.logo](pegion 4.png)
+![github.logo](pegion 5.png)
 
 
 
