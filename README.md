@@ -96,14 +96,20 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-![pigeon 1](https://user-images.githubusercontent.com/93427522/166958555-7d2fac1b-4fe9-45dd-a165-9dfaa138b937.png)
+![pigeon 1](https://user-images.githubusercontent.com/93427522/166959296-f6906805-d998-4d84-b952-89dec8f975d3.png)
+
+
+
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
 <br>
 <br>
 <br>
-<br>![pigeon 2](https://user-images.githubusercontent.com/93427522/166958576-4cbbe4ff-16f3-4b20-b2d9-3571d09eec31.png)
+<br>
+![pigeon 2](https://user-images.githubusercontent.com/93427522/166959372-cee3354b-052d-4e2c-9567-78a282cd2c13.png)
+
+
 
 
 ### Histogram Equalization of Grayscale Image
@@ -111,8 +117,11 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-![pigeon 4](https://user-images.githubusercontent.com/93427522/166958614-269cfade-8a7f-48f6-be8f-9aa4fd256af0.png)
-![pigeon 5](https://user-images.githubusercontent.com/93427522/166958625-4455f96a-a36e-445a-9415-4c2ffdcf86f1.png)
+![pigeon 4](https://user-images.githubusercontent.com/93427522/166959454-2ecf8c81-7eae-4caf-8283-a471c4f13c5a.png)
+![pigeon 5](https://user-images.githubusercontent.com/93427522/166959478-59efff07-4faf-42eb-9917-9826f54a3c5f.png)
+
+
+
 
 
 ## Result: 
