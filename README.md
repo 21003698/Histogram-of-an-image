@@ -98,14 +98,14 @@ cv2.destroyAllWindows()
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![github.logo](pegion 2.png)
+![github.logo](p2.png)
 
 
 
 ### Histogram Equalization of Grayscale Image
-![github.logo](pegion 4.png)
-![github.logo](pegion 5.png)
-![pigeon 4](https://user-images.githubusercontent.com/93427522/166960569-ae824922-625f-48e9-850f-0a1fc2ee449c.png)
+![github.logo](p4.png)
+![github.logo](p5.png)
+
 
 
 
